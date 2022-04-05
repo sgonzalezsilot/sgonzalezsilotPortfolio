@@ -7,4 +7,4 @@ Data Science Portfolio
 * We apply ImageDataGenerator to balance the classes.
 * We used TensorFlow and Scikit-Learn.
 
-![Curva Roc](https://github.com/sgonzalezsilot/FinalProjectComputerVision/blob/main/images/ROC.png)
+![Curva Roc](https://github.com/sgonzalezsilot/sgonzalezsilotPortfolio/blob/main/images/ROC.png)
