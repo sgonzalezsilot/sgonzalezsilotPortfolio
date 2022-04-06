@@ -9,4 +9,4 @@ Data Science Portfolio
 
 ![](https://github.com/sgonzalezsilot/sgonzalezsilotPortfolio/blob/main/images/ROC.png)
 
-![](https://github.com/sgonzalezsilot/sgonzalezsilotPortfolio/blob/main/images/matriz.png)
+![](images/matriz.png)
