@@ -8,3 +8,5 @@ Data Science Portfolio
 * We used TensorFlow and Scikit-Learn.
 
 ![](https://github.com/sgonzalezsilot/sgonzalezsilotPortfolio/blob/main/images/ROC.png)
+
+![](https://github.com/sgonzalezsilot/sgonzalezsilotPortfolio/blob/main/images/matriz.png)
