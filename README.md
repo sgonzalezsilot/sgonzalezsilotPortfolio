@@ -7,6 +7,6 @@ Data Science Portfolio
 * We apply ImageDataGenerator to balance the classes.
 * We used TensorFlow and Scikit-Learn.
 
-![](https://github.com/sgonzalezsilot/sgonzalezsilotPortfolio/blob/main/images/ROC.png)
+![](https://github.com/sgonzalezsilot/sgonzalezsilotPortfolio/blob/d735048060f14e7f0794cdeefbb86bc167577b06/images/ROC.png)
 
 ![](images/matriz.png)
