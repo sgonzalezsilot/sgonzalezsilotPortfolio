@@ -10,3 +10,18 @@ Data Science Portfolio
 ![](images/ROC.png)
 
 ![](images/matriz.png)
+
+
+## [Project 2: Analysis of +4000 TED Talks topics using document clustering](https://github.com/sgonzalezsilot/TedTalksClustering): 
+* Comparison of clustering formed using tf-idf and word embeddings using the most commons clustering algorithms like KMeans, Gaussian Mixture Models and Agglomerative Clustering.
+* Tuning of the hyperparameters of all models.
+* Comparaison of the results using multiple clustering metrics (DBI, Silhoutte and Calinski).
+* Bonus experiment using only the most relevant tf-idf words and partly solving the curse of dimensionality.
+* Bonus experiment using word embeddings from Microsoft MiniLM-L12-H384.
+* Final analysis using wordclouds and n-grams to identify the topics.\
+* Found insights about which algorithms and metrics work best for document clustering and why.
+* I used cuML, Spark (PySpark) and sentence-transformers.
+
+![](Clusters_KMeans.png)
+
+![](Clusters_GMM.png)
