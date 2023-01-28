@@ -22,6 +22,6 @@ Data Science Portfolio
 * Found insights about which algorithms and metrics work best for document clustering and why.
 * I used cuML, Spark (PySpark) and sentence-transformers.
 
-![](Clusters_KMeans.png)
+![](images/Clusters_KMeans.png)
 
-![](Clusters_GMM.png)
+![](images/Clusters_GMM.png)
