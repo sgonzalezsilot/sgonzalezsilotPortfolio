@@ -18,7 +18,7 @@ Data Science Portfolio
 * Comparaison of the results using multiple clustering metrics (DBI, Silhoutte and Calinski).
 * Bonus experiment using only the most relevant tf-idf words and partly solving the curse of dimensionality.
 * Bonus experiment using word embeddings from Microsoft MiniLM-L12-H384.
-* Final analysis using wordclouds and n-grams to identify the topics.\
+* Final analysis using wordclouds and n-grams to identify the topics.
 * Found insights about which algorithms and metrics work best for document clustering and why.
 * I used cuML, Spark (PySpark) and sentence-transformers.
 
