@@ -3,8 +3,7 @@
 
 
 
-
-##👨🏽‍🎓👨🏽‍💻 My Thesis - fIlfA: Fake News Detection using BERT, Transformers and NLP. :newspaper: :interrobang:
+## 🎓👨🏽‍💻 My Thesis - fIlfA: Fake News Detection using BERT, Transformers and NLP. :newspaper: :interrobang:
 Repository of the Scientific Analysis and Web App of the Final Degree Project of **Santiago González Silot**.
 
 The Fine-Tuning.ipynb file contains the analysis of the 2 *datasets* together with the different tests carried out in the work.
@@ -16,6 +15,7 @@ The rest of the files correspond to the web app of the work.
 * **The project resulted in the publication of a paper in the International Seminar on Artificial Intelligence and Disinformation.** https://sites.google.com/go.ugr.es/aidisinfo2022/registration?authuser=0&pli=1
 * Implementation of a basic web interface for the use and access to the models. Currently it can be accessed through HuggingFace: 
 https://huggingface.co/spaces/sgonzalezsilot/Fake-News-Twitter-Detection_from-my-Thesis
+
 
 
 ## Model architecture
