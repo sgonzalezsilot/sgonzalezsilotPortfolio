@@ -15,7 +15,10 @@ The rest of the files correspond to the web app of the work.
 * Implementation of a basic web interface for the use and access to the models. Currently **it can be accessed through HuggingFace**: 
 https://huggingface.co/spaces/sgonzalezsilot/Fake-News-Twitter-Detection_from-my-Thesis
 
-
+|  Model  |  F1-Score | Place in the competition | Difference with the winner |
+|:-------:|:---------:|:------------------------:|----------------------------|
+| English | **73.77** |             5            | 2.89                       |
+| Spanish | **98.41** |             8            | 0.2                        |
 
 ## Model architecture
 ![](images/model_plot.png)
