@@ -3,7 +3,7 @@
 
 
 
-## 🎓👨🏽‍💻 [My Thesis - fIlfA: Fake News Detection using BERT, Transformers and NLP](https://github.com/sgonzalezsilot/Thesis-FakeNewsDetection) :newspaper: :interrobang:
+## 🎓👨🏽‍💻 [My Thesis - fIlfA: Fake News Detection using BERT, Transformers and NLP](https://github.com/sgonzalezsilot/Thesis-FakeNewsDetection) 📰⁉️
 
 The Fine-Tuning.ipynb file contains the analysis of the 2 *datasets* together with the different tests carried out in the work.
 The rest of the files correspond to the web app of the work.
