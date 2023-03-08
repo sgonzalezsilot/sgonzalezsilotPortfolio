@@ -5,8 +5,9 @@
 
 ## 🎓👨🏽‍💻 [My Thesis - fIlfA: Fake News Detection using BERT, Transformers and NLP](https://github.com/sgonzalezsilot/Thesis-FakeNewsDetection) 📰⁉️
 
-The Fine-Tuning.ipynb file contains the analysis of the 2 *datasets* together with the different tests carried out in the work.
-The rest of the files correspond to the web app of the work.
+This poster briefly summarizes the work done during my thesis:
+![](images/poster_TFG.png)
+
 
 * An analysis of the main datasets available for the detection of fake news has been carried out. 
 * **Comparison between 7 BERT and RoBERTa models** (4 for English and 3 for Spanish) with **4 different optimization and regularization techniques specialized for word embeddings**. Giving a total of **28 different models tested**.
