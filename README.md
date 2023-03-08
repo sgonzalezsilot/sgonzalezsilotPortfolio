@@ -6,7 +6,7 @@
 ## 🎓👨🏽‍💻 [My Thesis - fIlfA: Fake News Detection using BERT, Transformers and NLP](https://github.com/sgonzalezsilot/Thesis-FakeNewsDetection) 📰⁉️
 
 This poster briefly summarizes the work done during my thesis:
-![](images/poster_TFG.png)
+![](images/Poster_TFG.png)
 
 
 * An analysis of the main datasets available for the detection of fake news has been carried out. 
